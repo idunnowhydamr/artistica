@@ -1,0 +1,72 @@
+body{
+    background:grey center no-repeat 
+}
+h1{
+    text-align: center;
+}
+.nave{
+    width: 400px;
+    height: 50px;
+    margin: auto;
+    display: flex ;
+    
+    
+}
+.nav-link{
+    width: 70px;
+    height: 12px;
+    display:flex;
+    padding: 20px;
+    text-align: center;
+    color: black;
+}
+li{
+    list-style: none;
+}
+.mif{
+    width: 300px;
+    height: 450px;
+}
+.padre{
+    width: 970px;
+    background-color: black;
+    display: inline-flex;
+    margin: 3%;
+}
+.madre{
+    width: 970px;
+    background-color: black;
+    display: inline-flex;
+    margin: 1%;
+}
+.tiempo{
+    width: 300px;
+    background-color: black;
+    display: inline-block;
+    margin: 2%;
+}
+.imagen {
+    display: block;
+    /*PARA CENTRAR IMAGENES*/
+    margin: auto;
+    width: 280px;
+    height: 350px;
+    padding: 20px;
+}
+.texto {
+    text-align: center;
+    color: white;
+}
+article{
+    text-align: center;
+}
+td{
+    padding: 15px;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.subir{
+    text-align: right;
+}
